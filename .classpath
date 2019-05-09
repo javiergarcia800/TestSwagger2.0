@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="main/java/|resources/|main/resources/|main/java/|main/resources/" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="var" path="M2_REPO/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="M2_REPO/javax/javaee-web-api/6.0/javaee-web-api-6.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-core/2.9.7/jackson-core-2.9.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-databind/2.9.7/jackson-databind-2.9.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/core/jackson-annotations/2.9.7/jackson-annotations-2.9.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/swagger/core/v3/swagger-jaxrs2/2.0.0/swagger-jaxrs2-2.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/reflections/reflections/0.9.11/reflections-0.9.11.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/guava/guava/20.0/guava-20.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/swagger/core/v3/swagger-models/2.0.0/swagger-models-2.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/swagger/core/v3/swagger-annotations/2.0.0/swagger-annotations-2.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/swagger/core/v3/swagger-integration/2.0.0/swagger-integration-2.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/swagger/core/v3/swagger-core/2.0.0/swagger-core-2.0.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/commons/commons-lang3/3.7/commons-lang3-3.7.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.9.4/jackson-dataformat-yaml-2.9.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/yaml/snakeyaml/1.18/snakeyaml-1.18.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.9.1/jackson-jaxrs-json-provider-2.9.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.9.1/jackson-jaxrs-base-2.9.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.9.1/jackson-module-jaxb-annotations-2.9.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/swagger/core/v3/swagger-jaxrs2-servlet-initializer/2.0.0/swagger-jaxrs2-servlet-initializer-2.0.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
